@@ -12,7 +12,7 @@
  *     $ ./iqr_quickselect 1 2 3 4 5 6 7 8 9 10
  *     The test passed
  *
- * Author: Expert C Developer
+ * Author: ChatGPT
  */
 
 int printf(const char *restrict format, ...);
