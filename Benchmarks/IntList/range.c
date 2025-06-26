@@ -11,7 +11,7 @@
  *     $ ./range 4 2 10 8
  *     The test passed
  *
- * Author: Expert C Developer
+ * Author: ChatGPT
  */
 
 int printf(const char *restrict format, ...);
